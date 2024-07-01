@@ -1,6 +1,6 @@
 # Software / System Architectural Document
 
-## Background
+## Overview
 **Description:**
 A brief overview of the software / system from the businesses perspective, include purpose, scope, and stakeholders.
 Highlight business objectives and goals that the software / system should achieve.
@@ -66,7 +66,7 @@ detailed as possible.
 
 ### Component A
 #### Description / Role
-Define the specific function and role of Service A within the overall system.
+Define the specific function and role of Component A within the overall system.
 
 #### Technology Stack
 List the technologies used to build and operate Component A.
@@ -78,14 +78,14 @@ Describe the internal architectural design of Component A.
 Provide best practices and guidelines for implementing Component A.
 
 #### Integration Points
-Detail how Service A integrates with other services and external systems.
+Detail how Component A integrates with other services and external systems.
 
 **Prompts:**
 - What is the primary function of Component A?
 - What technologies are used in Component A?
-- How is Service A architected?
+- How is Component A architected?
 - What are the best practices for implementing Component A?
-- How does Service A integrate with other services?
+- How does Component A integrate with other services?
 
 ### Component B
 #### Description / Role
